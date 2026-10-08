@@ -1,1 +1,1 @@
-# Zelinskyi_Maksym_ALA_Lab1
+# Zelinskyi_Maksym_and ChatGPT_ALA_Lab1
