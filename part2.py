@@ -6,7 +6,7 @@ import math
 
 def run_task3():
     print("\nTask 3")
-    vertices, faces = read_off("data/models/model.off")
+    vertices, faces = read_off("model.off")
 
     plot_off(vertices, faces)
 
@@ -39,7 +39,7 @@ def run_task3():
 
 def run_task4():
     print("\nTask 4")
-    vertices, faces = read_off("data/models/model.off")
+    vertices, faces = read_off("model.off")
 
     X = vertices.T
 
